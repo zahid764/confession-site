@@ -21,3 +21,4 @@ document.querySelector('.btn').addEventListener('click', function(event) {
         event.preventDefault(); // Prevent link if not confirmed
     }
 });
+
