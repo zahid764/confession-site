@@ -58,3 +58,10 @@ p {
 .btn:hover {
     background-color: #ff3385;
 }
+
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #ff3385;
+}
